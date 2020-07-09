@@ -1,4 +1,12 @@
-### Hi there 👋
+Currently employed by Codurance
+
+Software craftsman and [author](https://leanpub.com/development2019) Chris has over 25 years of experience working in the software development across a range of industries. He has worked in Defence, Banking, Insurance, Futures Trading, Betting and Digital Publishing.
+
+Chris is a life long learner, keen on Agile and Lean processes and equaly at home talking to stakeholders and developers.
+
+Chris enjoys reading, middle distance running and films.
+
+In my spare time I mentor Elixir on exercism.io
 
 <!--
 **chriseyre2000/chriseyre2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
