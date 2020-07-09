@@ -5,12 +5,12 @@ Software craftsman and [author](https://leanpub.com/development2019) Chris has o
 In my spare time I mentor Elixir on [exercism.io](https://excercism.io)
 
 ## Exercism Stats
-![Totals](Exercism.png)
+![Totals](./Exercism.png)
 
 - ⚡ Fun fact: I have fixed the Sorting Hat, typeset The Daily Prophet and implemented the prototype Patronus Test.
 
 ## Stackoverflow
-![Stackoverflow](stackoverflow.png)
+![Stackoverflow](./stackoverflow.png)
 
 I have a reasonable reputation.
 
