@@ -2,17 +2,9 @@ Currently employed by [Codurance](https://codurance.com/)
 
 Software craftsman and [author](https://leanpub.com/development2019) Chris has over 25 years of experience working in the software development across a range of industries. He has worked in Defence, Banking, Insurance, Futures Trading, Betting and Digital Publishing.
 
-In my spare time I mentor Elixir on [exercism.io](https://excercism.io)
+In my spare time I mentor Elixir on [exercism.io](https://excercism.io)  to date have mentored 2201 students and marked 6614 exercise.
 
-## Exercism Stats
-![Totals](https://github.com/chriseyre2000/chriseyre2000/blob/master/Exercism.png)
-
-- ⚡ Fun fact: I have fixed the Sorting Hat, typeset The Daily Prophet and implemented the prototype Patronus Test.
-
-## Stackoverflow
-![Stackoverflow](https://github.com/chriseyre2000/chriseyre2000/blob/master/stackoverflow.png)
-
-I have a reasonable reputation.
+- ⚡ Fun fact: Chris fixed the Sorting Hat, typeset The Daily Prophet and implemented the prototype Patronus Test.
 
 
 ## Open Source Projects
