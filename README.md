@@ -4,7 +4,7 @@ Software craftsman and [author](https://leanpub.com/development2019) Chris has o
 
 In my spare time I mentor Elixir on [exercism.io](https://excercism.io)  to date have mentored 2201 students and marked 6614 exercises.
 
-[![Andrew's Exercism stats](https://exercism-badges.herokuapp.com/andrewbaldwin44)](https://exercism.io/profiles/chriseyre2000)
+[![Andrew's Exercism stats](https://exercism-badges.herokuapp.com/chriseyre2000)](https://exercism.io/profiles/chriseyre2000)
 
 - ⚡ Fun fact: Chris fixed the Sorting Hat, typeset The Daily Prophet and implemented the prototype Patronus Test.
 - 😄 Pronouns: He/Him
