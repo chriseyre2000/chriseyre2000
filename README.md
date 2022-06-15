@@ -1,8 +1,8 @@
-Currently employed by [Codurance](https://codurance.com/)
+Currently employed by [Prima](https://prima.it/)
 
 Software craftsman and [author](https://leanpub.com/development2019) Chris has over 25 years of experience working in the software development across a range of industries. He has worked in Defence, Banking, Insurance, Futures Trading, Betting and Digital Publishing.
 
-In my spare time I mentor Elixir on [exercism.io](https://excercism.io)  to date have mentored 2201 students and marked 6614 exercises.
+In my spare time I mentor Elixir on [exercism.org](https://excercism.org)  to date have mentored 2906 students and marked 7976 exercises.
 
 [![Chris' Exercism stats](https://exercism-badges.herokuapp.com/chriseyre2000)](https://exercism.io/profiles/chriseyre2000)
 
